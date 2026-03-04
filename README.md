@@ -10,7 +10,6 @@ This repository is open‑source and released under the **MIT license**. Feel fr
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
 
 ## Run Locally
 
