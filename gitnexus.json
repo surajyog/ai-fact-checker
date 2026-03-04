@@ -1,0 +1,5 @@
+{
+    "name": "factchecker",
+    "type": "dynamic",
+    "bundleUrl": "https://factchecker-ab.pages.dev/factchecker.cjs"
+}
